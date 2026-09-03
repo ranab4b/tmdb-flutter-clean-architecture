@@ -1,0 +1,5 @@
+package com.rana.bilal.fluttter.movie_list_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

@@ -4,6 +4,15 @@ A modern, production-grade Flutter application built adhering strictly to **Clea
 
 ---
 
+## 📱 App Demo IOS / Android
+
+Click the preview image below to watch the 1-minute application demo on YouTube:
+
+[![Watch TMDB Flutter App Demo](https://img.youtube.com/vi/eK5xZJR1Rdg/hqdefault.jpg)](https://youtube.com/shorts/eK5xZJR1Rdg)
+
+
+---
+
 ## 🌟 Key Features
 - **Clean Architecture & SOLID Design:** Strictly separated Data, Domain, and Presentation layers.
 - **Infinite Scroll Pagination:** Automated page fetching when nearing list bottom.
